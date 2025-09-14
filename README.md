@@ -1,4 +1,4 @@
-# 🛂 EasyVisa – Advanced Machine Learning Project  
+# 🛂 EasyVisa Project – Advanced Machine Learning  
 
 ## 📌 Overview  
 The EasyVisa project applies **advanced machine learning techniques** to support the Office of Foreign Labor Certification (OFLC) in streamlining visa certification decisions. With the rising volume of applications, the goal is to automate candidate shortlisting and provide data-driven recommendations for visa approvals.  
