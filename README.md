@@ -37,5 +37,3 @@ The EasyVisa project applies **advanced machine learning techniques** to support
 5. **Evaluation:** Compared models using Accuracy, Precision, Recall, F1-score, and Confusion Matrices  
 6. **Business Insights:** Identified education, wage, and job requirements as key approval drivers  
 
-your-username/EasyVisa-ML.git
-   cd EasyVisa-ML
